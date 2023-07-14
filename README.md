@@ -1,4 +1,4 @@
-# tfm-uoc-data-science
+# NAVEGACIÓN AUTÓNOMA DE DRONES - UAV AUTONOMOUS NAVIGATION
 
 Código fuente del TFM del Máster de Ciencia de Datos de la UOC titulado "Navegación autónoma de vehículos aéreos no tripulados mediante técnicas de aprendizaje por refuerzo profundo".
 
